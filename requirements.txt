@@ -1,0 +1,10 @@
+nltk==3.9.1
+numpy==2.2.5
+pandas==2.2.3
+plotly==6.0.1
+pytz==2025.2
+requests==2.32.3
+scikit-learn==1.6.1
+streamlit==1.45.0
+yfinance==0.2.61
+js2py==0.74
